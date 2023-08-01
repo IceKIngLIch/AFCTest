@@ -1,0 +1,15 @@
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.csproj.AssemblyReference.cache
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.AssemblyInfoInputs.cache
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.AssemblyInfo.cs
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.csproj.CoreCompileInputs.cache
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\bin\Debug\net7.0\AFC.Application.deps.json
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\bin\Debug\net7.0\AFC.Application.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\bin\Debug\net7.0\AFC.Application.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\refint\AFC.Application.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\ref\AFC.Application.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\bin\Debug\net7.0\AFC.Repository.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\bin\Debug\net7.0\AFC.Repository.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Application\obj\Debug\net7.0\AFC.Application.csproj.CopyComplete

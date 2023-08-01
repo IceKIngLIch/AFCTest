@@ -1,0 +1,17 @@
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Api.deps.json
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Api.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Api.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.csproj.AssemblyReference.cache
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.AssemblyInfoInputs.cache
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.AssemblyInfo.cs
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.csproj.CoreCompileInputs.cache
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\refint\AFC.Api.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\ref\AFC.Api.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Application.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Repository.dll
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Application.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\bin\Debug\net7.0\AFC.Repository.pdb
+C:\Users\IceKingLich\Desktop\AFC\AFC\Api\obj\Debug\net7.0\AFC.Api.csproj.CopyComplete
